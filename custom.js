@@ -2,7 +2,7 @@
 // 	$("h1").hover(function(){
 // 		$('h1').css("background-image", "B9929F")
 // 	)}
-});
+// });
 // 		// $("img").hide();
 // 		// 	$("img2").display();
 // 		$("img".(function(){
