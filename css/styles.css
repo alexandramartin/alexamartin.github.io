@@ -1,24 +1,25 @@
 
-h1 {
+.header {
 
-}
-.blue{
-	color: black; size: 150px; text-align: center; border-style: solid; border-width: 5px; font-weight: bold; font-family: Florence, cursive
+ 	font-family:"cursive", "fantasy";
+ 	font-size: 130px;
+ 	background-image: url("../images/fade.jpg");
+ 	text-align:center;
+ 	background-size:150px;
+ }
+ .header:hover{
+ 	background-image: url("../images/views.jpg");
+ }
 
-}
-h2 {
-
-}
-.black{
-	text-align: left; color: black; border-style: solid; font-weight: bold; size: 50px; display:inline
-}
-h2 {
-	text-align: center;
-}
-html {
-	background-color: 7CEA9C;
-}
-img {
-	float:right; 
-	horizontal-align: right;
-	/*position:relative;*/
+ h2{
+	text-align:center; 
+	border-style:solid; 
+	display:inline;
+ 	background-color: find color;
+ }
+ body{
+ 	background-color:CB9CF2;
+ }
+ img{
+ 	float: right;
+ }
